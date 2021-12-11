@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="2279xS47QD4NzvciadFL54QyxO6" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="" />
+      <created>1639178005526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639178005526</updated>
+      <workItem from="1639178006697" duration="3451000" />
+      <workItem from="1639214487713" duration="1930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="343" key="#Notifications" timestamp="1639181573775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1639181573775" />
+    <state x="747" y="312" key="#TODO" timestamp="1639179334882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="312" key="#TODO/0.0.1920.1040@0.0.1920.1040" timestamp="1639179334882" />
+    <state x="718" y="425" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1639181490245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="425" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1639181490245" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1639216258164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1639216258164" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1639179652509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639179652509" />
+    <state x="461" y="164" width="1268" height="711" key="SettingsEditor" timestamp="1639214902675">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" width="1268" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1639214902675" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1639216431895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639216431895" />
+    <state x="752" y="378" key="scopes" timestamp="1639179071489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="378" key="scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1639179071489" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1639214751298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639214751298" />
+  </component>
+</project>
