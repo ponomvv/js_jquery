@@ -1,4 +1,5 @@
 const a = 4;
-const b = 554;
+const c = 554;
+
 console.log(a);
-console.log(b);
+console.log(c);
