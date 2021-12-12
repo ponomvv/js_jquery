@@ -6,7 +6,7 @@ var newItemLast = document.createElement ('li');                    // Созд�
 var newTextLast = document.createTextNode ('деревенская сметана');                // Создаем текстовый узел
 newItemLast.appendChild (newTextLast);                              // Добавляем текстовый узел к элементу
 list.appendChild (newItemLast);                                     // Добавляем элемент к концу списка
-
+//
 // ДОБАВЛЕНИЕ НОВОГО ЭЛЕМЕНТА К НАЧАЛУ СПИСКА
 var newItemFirst = document.createElement ('li');                   // Создаем элемент
 var newTextFirst = document.createTextNode ('белокочанная капуста');                // Создаем текстовый узел
