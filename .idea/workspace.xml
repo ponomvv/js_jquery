@@ -3,12 +3,62 @@
   <component name="AnalysisUIOptions">
     <option name="SCOPE_TYPE" value="3" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="" />
+    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/css/c05.css" beforeDir="false" afterPath="$PROJECT_DIR$/05/css/c05.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/05/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/js/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/05/js/example.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -16,7 +66,11 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2279xS47QD4NzvciadFL54QyxO6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,10 +92,24 @@
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="delete.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/delete.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.delete.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="" />
@@ -50,18 +118,102 @@
       <option name="presentableId" value="Default" />
       <updated>1639178005526</updated>
       <workItem from="1639178006697" duration="3451000" />
-      <workItem from="1639214487713" duration="1930000" />
+      <workItem from="1639214487713" duration="5220000" />
+      <workItem from="1639230117006" duration="1407000" />
+      <workItem from="1639335747195" duration="1560000" />
+      <workItem from="1639338089494" duration="40000" />
+      <workItem from="1639339480040" duration="124000" />
+      <workItem from="1639341384948" duration="304000" />
+      <workItem from="1639343081125" duration="4000" />
+      <workItem from="1639343390005" duration="85000" />
+      <workItem from="1639345053055" duration="319000" />
+      <workItem from="1639345598166" duration="262000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="714" y="343" key="#Notifications" timestamp="1639181573775">
+    <state x="714" y="343" key="#Notifications" timestamp="1639238790798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="714" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1639181573775" />
+    <state x="714" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1639238790798" />
+    <state x="637" y="201" key="#Options" timestamp="1639220473314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="201" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1639220473314" />
     <state x="747" y="312" key="#TODO" timestamp="1639179334882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -74,14 +226,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1639216258164" />
+    <state x="838" y="417" key="Github.ShareDialog" timestamp="1639216609776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639216609776" />
+    <state x="703" y="224" key="Github.UntrackedFilesDialog" timestamp="1639216644799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639216644799" />
+    <state width="1217" height="195" key="GridCell.Tab.0.bottom" timestamp="1639337617636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1217" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1639337617636" />
+    <state width="1217" height="195" key="GridCell.Tab.0.center" timestamp="1639337617636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1217" height="195" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1639337617636" />
+    <state width="1217" height="195" key="GridCell.Tab.0.left" timestamp="1639337617636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1217" height="195" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1639337617636" />
+    <state width="1217" height="195" key="GridCell.Tab.0.right" timestamp="1639337617636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1217" height="195" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1639337617636" />
     <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1639179652509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639179652509" />
-    <state x="461" y="164" width="1268" height="711" key="SettingsEditor" timestamp="1639214902675">
+    <state x="436" y="91" width="1268" height="711" key="SettingsEditor" timestamp="1639337067980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" width="1268" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1639214902675" />
+    <state x="436" y="91" width="1268" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1639337067980" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1639336316200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1639336316200" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1639216752451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1639216752451" />
+    <state x="832" y="364" key="cloudConfig.SelfSettingsDialog" timestamp="1639216789786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="364" key="cloudConfig.SelfSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639216789786" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1639216431895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -90,9 +278,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="378" key="scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1639179071489" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1639214751298">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1639336315935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639214751298" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639336315935" />
   </component>
 </project>
