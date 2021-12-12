@@ -28,12 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/css/c05.css" beforeDir="false" afterPath="$PROJECT_DIR$/05/css/c05.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/05/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/js/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/05/js/example.js" afterDir="false" />
-    </list>
+    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Учебный" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,8 +122,23 @@
       <workItem from="1639343081125" duration="4000" />
       <workItem from="1639343390005" duration="85000" />
       <workItem from="1639345053055" duration="319000" />
-      <workItem from="1639345598166" duration="262000" />
+      <workItem from="1639345598166" duration="542000" />
     </task>
+    <task id="LOCAL-00001" summary="Учебный">
+      <created>1639346014662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639346014662</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Учебный">
+      <created>1639346176790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639346176790</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,82 +215,8 @@
       </map>
     </option>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="714" y="343" key="#Notifications" timestamp="1639238790798">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="714" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1639238790798" />
-    <state x="637" y="201" key="#Options" timestamp="1639220473314">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="637" y="201" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1639220473314" />
-    <state x="747" y="312" key="#TODO" timestamp="1639179334882">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="747" y="312" key="#TODO/0.0.1920.1040@0.0.1920.1040" timestamp="1639179334882" />
-    <state x="718" y="425" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1639181490245">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="718" y="425" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1639181490245" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1639216258164">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1639216258164" />
-    <state x="838" y="417" key="Github.ShareDialog" timestamp="1639216609776">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639216609776" />
-    <state x="703" y="224" key="Github.UntrackedFilesDialog" timestamp="1639216644799">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="703" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639216644799" />
-    <state width="1217" height="195" key="GridCell.Tab.0.bottom" timestamp="1639337617636">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1217" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1639337617636" />
-    <state width="1217" height="195" key="GridCell.Tab.0.center" timestamp="1639337617636">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1217" height="195" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1639337617636" />
-    <state width="1217" height="195" key="GridCell.Tab.0.left" timestamp="1639337617636">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1217" height="195" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1639337617636" />
-    <state width="1217" height="195" key="GridCell.Tab.0.right" timestamp="1639337617636">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1217" height="195" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1639337617636" />
-    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1639179652509">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639179652509" />
-    <state x="436" y="91" width="1268" height="711" key="SettingsEditor" timestamp="1639337067980">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="436" y="91" width="1268" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1639337067980" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1639336316200">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1639336316200" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1639216752451">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1639216752451" />
-    <state x="832" y="364" key="cloudConfig.SelfSettingsDialog" timestamp="1639216789786">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="832" y="364" key="cloudConfig.SelfSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639216789786" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1639216431895">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639216431895" />
-    <state x="752" y="378" key="scopes" timestamp="1639179071489">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="752" y="378" key="scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1639179071489" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1639336315935">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639336315935" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Учебный" />
+    <option name="LAST_COMMIT_MESSAGE" value="Учебный" />
   </component>
 </project>
