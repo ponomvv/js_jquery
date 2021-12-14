@@ -31,8 +31,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Учебный4">
+    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Учебный6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/get-attribute.html" beforeDir="false" afterPath="$PROJECT_DIR$/05/get-attribute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/js/remove-attribute.js" beforeDir="false" afterPath="$PROJECT_DIR$/05/js/remove-attribute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/remove-attribute.html" beforeDir="false" afterPath="$PROJECT_DIR$/05/remove-attribute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete.js" beforeDir="false" afterPath="$PROJECT_DIR$/delete.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +59,15 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="JsBowerSettings">
-    <node-interpreter value="project" />
     <bower-package value="" />
     <bower.json value="" />
   </component>
@@ -92,23 +103,21 @@
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="delete.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/delete.js" working-dir="$PROJECT_DIR$">
+    <configuration name="delete.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/delete.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.delete.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SshConsoleOptionsProvider">
     <option name="myEncoding" value="UTF-8" />
     <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -128,7 +137,8 @@
       <workItem from="1639343390005" duration="85000" />
       <workItem from="1639345053055" duration="319000" />
       <workItem from="1639345598166" duration="542000" />
-      <workItem from="1639428218219" duration="1546000" />
+      <workItem from="1639428218219" duration="5005000" />
+      <workItem from="1639515081280" duration="1527000" />
     </task>
     <task id="LOCAL-00001" summary="Учебный">
       <created>1639346014662</created>
@@ -158,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639348076606</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Учебный6">
+      <created>1639429825385</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639429825385</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,17 +255,13 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="2" value="TOOL_WINDOW" />
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Учебный" />
     <MESSAGE value="Учебный4" />
     <MESSAGE value="Учебный5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Учебный5" />
+    <MESSAGE value="Учебный6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Учебный6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
