@@ -260,10 +260,10 @@ select, option {
 #body #page {margin-top: 130px;}
 
 .divider {
-  margin: 0 40px; 
-  border-left: 1px solid #fff; 
-  border-right: 1px solid #fff; 
-  color: #6cc0ac;}
+  margin: 0 20px;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #fff;
+  color: #681818;}
 
 
 /* Character Counter */

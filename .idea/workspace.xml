@@ -31,12 +31,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Учебный6">
+    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="События форм">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/get-attribute.html" beforeDir="false" afterPath="$PROJECT_DIR$/05/get-attribute.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/js/remove-attribute.js" beforeDir="false" afterPath="$PROJECT_DIR$/05/js/remove-attribute.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/remove-attribute.html" beforeDir="false" afterPath="$PROJECT_DIR$/05/remove-attribute.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delete.js" beforeDir="false" afterPath="$PROJECT_DIR$/delete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/css/c05.css" beforeDir="false" afterPath="$PROJECT_DIR$/05/css/c05.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06/css/c06.css" beforeDir="false" afterPath="$PROJECT_DIR$/06/css/c06.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06/event-listener-with-parameters.html" beforeDir="false" afterPath="$PROJECT_DIR$/06/event-listener-with-parameters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/06/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06/position.html" beforeDir="false" afterPath="$PROJECT_DIR$/06/position.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,10 +107,18 @@
     <property name="settings.editor.selected.configurable" value="advanced.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.form.html">
+    <configuration name="form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js_jquery/06/form.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="delete.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/delete.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.form.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SshConsoleOptionsProvider">
@@ -138,7 +147,14 @@
       <workItem from="1639345053055" duration="319000" />
       <workItem from="1639345598166" duration="542000" />
       <workItem from="1639428218219" duration="5005000" />
-      <workItem from="1639515081280" duration="1527000" />
+      <workItem from="1639515081280" duration="2335000" />
+      <workItem from="1639915331634" duration="8546000" />
+      <workItem from="1640116533642" duration="2878000" />
+      <workItem from="1640370100098" duration="5066000" />
+      <workItem from="1640543367794" duration="641000" />
+      <workItem from="1640544424320" duration="1154000" />
+      <workItem from="1640895415080" duration="1155000" />
+      <workItem from="1641071110207" duration="540000" />
     </task>
     <task id="LOCAL-00001" summary="Учебный">
       <created>1639346014662</created>
@@ -175,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639429825385</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Атрибуты урок">
+      <created>1639516723407</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639516723407</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +284,9 @@
     <MESSAGE value="Учебный4" />
     <MESSAGE value="Учебный5" />
     <MESSAGE value="Учебный6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Учебный6" />
+    <MESSAGE value="Атрибуты урок" />
+    <MESSAGE value="События форм" />
+    <option name="LAST_COMMIT_MESSAGE" value="События форм" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
