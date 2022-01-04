@@ -33,11 +33,14 @@
   <component name="ChangeListManager">
     <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="События форм">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/css/c05.css" beforeDir="false" afterPath="$PROJECT_DIR$/05/css/c05.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/06/css/c06.css" beforeDir="false" afterPath="$PROJECT_DIR$/06/css/c06.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/event-listener-with-parameters.html" beforeDir="false" afterPath="$PROJECT_DIR$/06/event-listener-with-parameters.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/06/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/position.html" beforeDir="false" afterPath="$PROJECT_DIR$/06/position.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/06/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06/js/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/06/js/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06/js/mutation.js" beforeDir="false" afterPath="$PROJECT_DIR$/06/js/mutation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06/mutation.html" beforeDir="false" afterPath="$PROJECT_DIR$/06/mutation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/basic-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/basic-example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/css/c07.css" beforeDir="false" afterPath="$PROJECT_DIR$/07/css/c07.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/js/basic-example.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/basic-example.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +107,7 @@
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.form.html">
@@ -154,7 +157,10 @@
       <workItem from="1640543367794" duration="641000" />
       <workItem from="1640544424320" duration="1154000" />
       <workItem from="1640895415080" duration="1155000" />
-      <workItem from="1641071110207" duration="540000" />
+      <workItem from="1641071110207" duration="2012000" />
+      <workItem from="1641234699025" duration="1272000" />
+      <workItem from="1641236935027" duration="3077000" />
+      <workItem from="1641332973153" duration="1318000" />
     </task>
     <task id="LOCAL-00001" summary="Учебный">
       <created>1639346014662</created>
@@ -198,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639516723407</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="События форм">
+      <created>1641072062933</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641072062933</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
