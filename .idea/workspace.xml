@@ -31,17 +31,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Изменение контента.">
+    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Использование объекта EVENT.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/adding-new-content.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/adding-new-content.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/attributes.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/attributes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/css.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/css.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/js/adding-new-content.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/adding-new-content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/js/attributes.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/attributes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/js/css.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/css.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/js/each.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/each.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/js/events.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/events.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/event-object.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/event-object.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/js/event-object.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/event-object.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,15 +107,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.delete.js">
+  <component name="RunManager" selected="Node.js.event-object.js">
     <configuration name="form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js_jquery/06/form.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="delete.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/delete.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="event-object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/07/js/event-object.js" working-dir="$PROJECT_DIR$/07/js">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.event-object.js" />
         <item itemvalue="JavaScript Debug.form.html" />
       </list>
     </recent_temporary>
@@ -166,7 +163,7 @@
       <workItem from="1641236935027" duration="3077000" />
       <workItem from="1641332973153" duration="1612000" />
       <workItem from="1641388005048" duration="5343000" />
-      <workItem from="1641401186133" duration="4608000" />
+      <workItem from="1641401186133" duration="6325000" />
     </task>
     <task id="LOCAL-00001" summary="Учебный">
       <created>1639346014662</created>
@@ -231,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641397636362</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Использование объекта EVENT.">
+      <created>1641414220719</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641414220719</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +325,8 @@
     <MESSAGE value="События форм" />
     <MESSAGE value="Знакомство с JQUERY" />
     <MESSAGE value="Изменение контента." />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменение контента." />
+    <MESSAGE value="Использование объекта EVENT." />
+    <option name="LAST_COMMIT_MESSAGE" value="Использование объекта EVENT." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
