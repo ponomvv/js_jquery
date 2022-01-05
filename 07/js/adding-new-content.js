@@ -1,6 +1,6 @@
-﻿$(function() {
-  $('ul').before('<p class="notice">Список обновлен!</p>');
-  $('li.hot').prepend('+ ');
-  var $newListItem = $('<li>кукуруза <em>без ГМО</em></li>');
-  $('li:last').after($newListItem);
+﻿$ (function () {
+    $ ('ul').before ('<p class="notice">Список обновлён!</p>');
+    $ ('li.hot').prepend ('+');
+    var $newListItem = $ ('<li><em>кукурузу</em>без ГМО</li>');
+    $ ('li:last').after ($newListItem);
 });
