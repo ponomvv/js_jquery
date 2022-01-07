@@ -31,10 +31,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Применение фильтров.">
+    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Использование порядковых номеров.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/index-numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/index-numbers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/js/index-numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/index-numbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/js/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/form.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +173,7 @@
       <workItem from="1641469626744" duration="4254000" />
       <workItem from="1641484645209" duration="301000" />
       <workItem from="1641503434249" duration="221000" />
-      <workItem from="1641555398873" duration="7996000" />
+      <workItem from="1641555398873" duration="11030000" />
     </task>
     <task id="LOCAL-00001" summary="Учебный">
       <created>1639346014662</created>
@@ -266,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641569912726</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Использование порядковых номеров.">
+      <created>1641571402271</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1641571402271</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,7 +369,8 @@
     <MESSAGE value="Обход дерева DOM" />
     <MESSAGE value="Обход дерева DOM." />
     <MESSAGE value="Применение фильтров." />
-    <option name="LAST_COMMIT_MESSAGE" value="Применение фильтров." />
+    <MESSAGE value="Использование порядковых номеров." />
+    <option name="LAST_COMMIT_MESSAGE" value="Использование порядковых номеров." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
