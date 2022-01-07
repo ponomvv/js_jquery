@@ -31,10 +31,19 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Использование объекта EVENT.">
+    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Обход дерева DOM">
+      <change afterPath="$PROJECT_DIR$/07/js/jquery-3.6.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08/js/jquery-3.6.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/js/jquery-3.6.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery-3.6.0.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/animate.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/animate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/effects.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/effects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/event-delegation.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/event-delegation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07/event-object.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/event-object.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/js/event-object.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/event-object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/js/animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/animate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/js/effects.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/effects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/js/event-delegation.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/event-delegation.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +102,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/09/js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -106,6 +115,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ponom\Desktop\js_jquery\09\js" />
+      <recent name="C:\Users\ponom\Desktop\js_jquery\08\js" />
+    </key>
   </component>
   <component name="RunManager" selected="Node.js.event-object.js">
     <configuration name="form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js_jquery/06/form.html" useBuiltInWebServerPort="true">
@@ -163,7 +178,10 @@
       <workItem from="1641236935027" duration="3077000" />
       <workItem from="1641332973153" duration="1612000" />
       <workItem from="1641388005048" duration="5343000" />
-      <workItem from="1641401186133" duration="6325000" />
+      <workItem from="1641401186133" duration="9018000" />
+      <workItem from="1641469626744" duration="4254000" />
+      <workItem from="1641484645209" duration="301000" />
+      <workItem from="1641503434249" duration="221000" />
     </task>
     <task id="LOCAL-00001" summary="Учебный">
       <created>1639346014662</created>
@@ -235,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641414220719</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Использование объета EVENT.">
+      <created>1641416012159</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1641416012159</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +351,10 @@
     <MESSAGE value="Знакомство с JQUERY" />
     <MESSAGE value="Изменение контента." />
     <MESSAGE value="Использование объекта EVENT." />
-    <option name="LAST_COMMIT_MESSAGE" value="Использование объекта EVENT." />
+    <MESSAGE value="Использование объета EVENT." />
+    <MESSAGE value="Использование метода animate." />
+    <MESSAGE value="Обход дерева DOM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обход дерева DOM" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
