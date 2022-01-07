@@ -31,19 +31,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Обход дерева DOM">
-      <change afterPath="$PROJECT_DIR$/07/js/jquery-3.6.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/js/jquery-3.6.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/js/jquery-3.6.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery-3.6.0.js" afterDir="false" />
+    <list default="true" id="49ecbf74-788a-47a7-89e7-31f9aeed63c2" name="Default Changelist" comment="Обход дерева DOM.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/animate.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/animate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/effects.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/effects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/event-delegation.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/event-delegation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/event-object.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/event-object.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/js/animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/animate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/js/effects.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/effects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/js/event-delegation.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/event-delegation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/filters.html" beforeDir="false" afterPath="$PROJECT_DIR$/07/filters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/js/filters.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/filters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/js/traversing.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/js/traversing.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +105,7 @@
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -182,6 +174,7 @@
       <workItem from="1641469626744" duration="4254000" />
       <workItem from="1641484645209" duration="301000" />
       <workItem from="1641503434249" duration="221000" />
+      <workItem from="1641555398873" duration="6632000" />
     </task>
     <task id="LOCAL-00001" summary="Учебный">
       <created>1639346014662</created>
@@ -260,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641416012159</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Обход дерева DOM.">
+      <created>1641556484307</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641556484307</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,7 +354,8 @@
     <MESSAGE value="Использование объета EVENT." />
     <MESSAGE value="Использование метода animate." />
     <MESSAGE value="Обход дерева DOM" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обход дерева DOM" />
+    <MESSAGE value="Обход дерева DOM." />
+    <option name="LAST_COMMIT_MESSAGE" value="Обход дерева DOM." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

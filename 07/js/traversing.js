@@ -1,1 +1,1 @@
-﻿$(function() {  var $h2 = $('h2');  $('ul').hide();  $h2.append('<a class="show">показать</a>');  $h2.on('click', function() {    $h2.next('ul')      .fadeIn(500)      .children('.hot')      .addClass('complete');    $h2.find('a').fadeOut();  });});
+﻿$ (function () {    var $h2 = $ ('h2');    $ ('ul').hide ();    $h2.append ('<a>показать</a>');    $h2.on ('click', function () {        $h2.next ().fadeIn (500).children ('.hot').addClass ('complеte');        $h2.find ('a').fadeOut ();    });});
